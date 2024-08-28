@@ -1,4 +1,4 @@
-<h1>Diwali Sales Data Analysis Using Python and SQL</h1>
+<h1>Diwali Sales Data Analysis Using Python</h1>
 <br>
 <br>
 <br>
